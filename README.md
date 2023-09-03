@@ -5,8 +5,8 @@ Data Analyst Portfolio
 Hello everybody I am Tatyana and I am an aspiring data analyst. Welcome to my Porfolio where I would be showcasing my skills and applying them to real world projects.
 
 ## **About Me**
-- Data Analyst
--  North Carolina A&T State University
+- Data Analyst👩🏾‍💻
+-  North Carolina A&T State University🐶💙💛
 
   ### Skills
   - SQL
