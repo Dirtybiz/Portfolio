@@ -25,8 +25,6 @@ INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_5
 
-
-
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_6
@@ -64,302 +62,192 @@ INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_13
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_14
-
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_15
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_16
-
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_17
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_18
-
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_19
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_20
-
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_21
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_22
-
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_23
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_24
-
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_25
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_26
-
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_27
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_28
-
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_29
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_30
-
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_31
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_32
-
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_33
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_34
-
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_35
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_36
 
-SELECT *
-FROM Week_1;
-
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_37
-
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_38
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_39
-
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_40
 
-SELECT *
-FROM Week_1;
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_41
-
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_42
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_43
-
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_44
 
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_45
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_46
 
-SELECT *
-FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_47
 
---SELECT *
---FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_48
-
---SELECT *
---FROM Week_1;
 
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_49
 
-SELECT *
-FROM Week_1;
-
 
 INSERT INTO Week_1 (sale_time, purchaser_gender)
 SELECT sale_time, purchaser_gender
 FROM Week_50
 
---SELECT * 
---FROM Week_1;
 
 --Remove the tables because we inserted all the data into week one
 DROP TABLE Week_2, Week_3,Week_4,Week_5, Week_6, Week_7,Week_8,Week_9,Week_10, Week_11,Week_12,Week_13,Week_14,Week_15,Week_16,Week_17,Week_18,Week_19,Week_20;
@@ -371,7 +259,7 @@ DROP TABLE Week_21,Week_22,Week_23,Week_24,Week_25,Week_26,Week_27,Week_28,Week_
 --SELECT *
 --FROM sales; 
 
--- I am going to break up the sale time into dates and time purchased into their own columns.
+-- I will break up the sale time into dates and time purchased into their own columns.
 
 SELECT CONCAT(RIGHT(sale_time, 16), ' ') AS time_purchased, CONCAT(LEFT(sale_time, 10), ' ') AS sale_date
 FROM sales;
@@ -402,4 +290,4 @@ DROP COLUMN sale_time;
 SELECT *
 FROM sales;
 
---The data is clean and easy to read now I will upload all of this information into Tableau to perform statistical analysis.
+--The data is clean and easy to read now, I will upload all of this information into Tableau to perform statistical analysis.
